@@ -2,7 +2,7 @@
 This is my personal website. It is currently in development. 
 
 Here is structure of the website I wish to build. 
-
+```
 personal-website/
 │
 ├── index.html # Main HTML file
@@ -28,3 +28,4 @@ personal-website/
 │
 ├── README.md # Project documentation and instructions
 └── LICENSE # License file for the repository
+```
